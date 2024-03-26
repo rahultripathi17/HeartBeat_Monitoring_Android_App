@@ -8,7 +8,7 @@ width="200" hspace="10" vspace="10">
 The Heartbeat Monitoring App is a cost-effective digital stethoscope solution aimed at improving healthcare accessibility, particularly in resource-limited settings. Developed by Rahul Tripathi from the Department of Electronics, this app provides clear and accurate recordings of heart sounds, with improved amplification and noise reduction capabilities compared to traditional stethoscopes.
 
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche">
+<a href="https://drive.google.com/file/d/19cqkxY-6q77uksxTz85xWMdrhH4A0Qk_/view?usp=drive_link">
     <img alt="Download Our App"
         height="60"
         src="https://github.com/rahultripathi17/Heartbeat_Monitoring_Android_App/assets/164916298/812efc3a-562c-429c-bfc7-1c6f83a32212" /></a> 
@@ -33,7 +33,7 @@ For detailed information about the development and evaluation of the Heartbeat M
 
 To use the Heartbeat Monitoring App, follow these steps:
 
-1. Download and install the app [Heartbeat Monitoring App](https://play.google.com/store).
+1. Download and install the app [Heartbeat Monitoring App](https://drive.google.com/file/d/19cqkxY-6q77uksxTz85xWMdrhH4A0Qk_/view?usp=drive_link).
 2. Connect the digital stethoscope to your smartphone.
 3. Launch the app and follow the on-screen instructions to begin recording heart sounds.
 
@@ -41,8 +41,9 @@ To use the Heartbeat Monitoring App, follow these steps:
 
 For a visual demonstration of the Heartbeat Monitoring App's features and functionality, please watch our screen recording:
 
-[![Heartbeat Monitoring App Demonstration Video](https://github.com/rahultripathi17/Heartbeat_Monitoring_Android_App/assets/164916298/ef83afe8-4035-400c-91c8-c8e318f2192c)](https://drive.google.com/file/d/120yr4BmM1IGa1NrEPMCaUa50X2f1OclW/view?usp=sharing)
-
+<p align="center">
+  <img src="https://github.com/rahultripathi17/Heartbeat_Monitoring_Android_App/assets/164916298/60f8992a-f41a-4315-ad14-5bccdcc1f125" alt="Heartbeat Monitoring App Demonstration Video" width="300px" />
+</p>
 
 ## Usage
 

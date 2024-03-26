@@ -42,7 +42,9 @@ To use the Heartbeat Monitoring App, follow these steps:
 For a visual demonstration of the Heartbeat Monitoring App's features and functionality, please watch our screen recording:
 
 <p align="center">
-  <img src="https://github.com/rahultripathi17/Heartbeat_Monitoring_Android_App/assets/164916298/60f8992a-f41a-4315-ad14-5bccdcc1f125" alt="Heartbeat Monitoring App Demonstration Video" width="300px" />
+  <a href="https://drive.google.com/file/d/1g3DmwrY-2GaxeuRX3om3CTPtY3ww6BPX/view?usp=sharing">
+    <img src="https://github.com/rahultripathi17/Heartbeat_Monitoring_Android_App/assets/164916298/60f8992a-f41a-4315-ad14-5bccdcc1f125" alt="Heartbeat Monitoring App Demonstration Video" width="300px" />
+  </a>
 </p>
 
 ## Usage
